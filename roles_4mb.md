@@ -1,5 +1,5 @@
 # Roles Within the 4MB Jam Organisation
-These are the definitions, rules, responsabilities and obligations related to the roles of the 4MB Jam. Along with [this other document](https://github.com/4mborg/Operational-Rules/metarules_4mb.md), they are part of the operational rules of the 4MB Jam.
+These are the definitions, rules, responsabilities and obligations related to the roles of the 4MB Jam. Along with [this other document](metarules_4mb.md), they are part of the operational rules of the 4MB Jam.
 ## The Organizers
 The organisers are the Host, the Admin and the Owner. Their chief concern is to implement the [core mission of the 4MB Jam](https://4mbjam.dev/mission/).
 * The Owner owns the 4MB Jam Organisation, website and the platform the 4MB Community uses to hang out and chat (the 4MB Jam discord group).
