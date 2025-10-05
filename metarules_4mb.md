@@ -1,5 +1,5 @@
 # 4MB Jam Metarules
-These are the rules about rules for the 4MB Jam. Along with [this other document](https://github.com/4mborg/Operational-Rules/roles_4mb.md), they are part of the operational rules of the 4MB Jam. The metarules are written with the [ideological mission](https://4mbjam.dev/mission/) of the jam in mind.
+These are the rules about rules for the 4MB Jam. Along with [this other document](roles_4mb.md), they are part of the operational rules of the 4MB Jam. The metarules are written with the [ideological mission](https://4mbjam.dev/mission/) of the jam in mind.
 1. The Jam rules may not allow games that are 4MiB or over in size after extraction on the disk.
     1. The Jam rules may allow exceptions for executable packers.
     2. The Jam rules may allow exceptions for non game files like readmes and licences, or any file that is not used at runtime.
